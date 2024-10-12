@@ -97,7 +97,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/christian-leyton-martín-6902032b8" target="_blank">
+<a href="www.linkedin.com/in/christian-leyton-martin-6902032b8" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: Christian Leyton-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
